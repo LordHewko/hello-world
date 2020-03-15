@@ -1,3 +1,3 @@
 # hello-world
 first repository
-I am Aaron and I enjoy hockey
+I am Aaron and I enjoy learning, reading, cooking, sports, and coding.
